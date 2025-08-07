@@ -8,5 +8,4 @@ const nextConfig = {
     domains: ['m.media-amazon.com']
   }
 }
-
 module.exports = nextConfig
