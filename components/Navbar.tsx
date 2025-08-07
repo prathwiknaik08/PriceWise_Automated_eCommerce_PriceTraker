@@ -6,7 +6,6 @@ const navIcons = [
   { src: '/assets/icons/black-heart.svg', alt: 'heart' },
   { src: '/assets/icons/user.svg', alt: 'user' },
 ]
-
 const Navbar = () => {
   return (
     <header className="w-full">
