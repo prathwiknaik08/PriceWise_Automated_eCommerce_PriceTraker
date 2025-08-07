@@ -5,7 +5,6 @@ interface Props {
   iconSrc: string;
   value: string;
 }
-
 const PriceInfoCard = ({ title, iconSrc, value }: Props) => {
   return (
     <div className={`price-info_card`}>
